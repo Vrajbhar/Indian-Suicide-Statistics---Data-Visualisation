@@ -1,5 +1,5 @@
 To run:
-Open final.html in mozilla firefox browser.
+Open [final.html](https://github.com/meghanakotagiri/Indian-Suicide-Statistics---Data-Visualisation/blob/master/code/final.html) in mozilla firefox browser.
 <OR>
 For running in chrome (in Windows):
 1) Open run (by pressing windows key + R)
